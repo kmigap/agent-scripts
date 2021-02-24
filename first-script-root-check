@@ -2,6 +2,7 @@
 
 if [ ${uid} -ne 0] then,
   echo "you need root access"
- exit 0
+  echo
+ exit 1
  fi
  
