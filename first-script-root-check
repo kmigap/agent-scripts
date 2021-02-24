@@ -12,3 +12,5 @@ then
 	echo " This server is too small"
 	exit2
 fi
+
+echo " this is a github repository"
