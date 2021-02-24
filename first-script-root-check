@@ -14,3 +14,5 @@ then
 fi
 
 echo " this is a github repository"
+
+exit 0
